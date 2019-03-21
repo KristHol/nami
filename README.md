@@ -1,1 +1,1 @@
-# nami
+﻿# namiFor a school project.
